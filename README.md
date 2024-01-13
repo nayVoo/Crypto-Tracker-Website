@@ -1,5 +1,4 @@
 # Crypto-Tracker-Website
-Website tracker of cryptocurrency
 
 CryptoTracker Website Description:
 
